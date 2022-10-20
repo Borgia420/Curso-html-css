@@ -22,4 +22,5 @@ body {
     color: white;
     border-bottom: 3px solid darkred;
     transform: translateY(5px);
+    transition: 0.4s;
 }
